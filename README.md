@@ -41,6 +41,6 @@
 - 连接手机热点有BUG，经常连不上
 - 蓝牙连手机BUG，连上立马断开，已测试Big Sur不存在此BUG
 
-最后附上[厚切大佬的教程](https://zhuanlan.zhihu.com/p/347899851)
-
 EFI[下载](https://github.com/xiaoheiwu123/ROG-Zephyrus-M15-GU502LV-Hackintosh/releases/tag/EFI)
+
+最后附上[厚切大佬的教程](https://zhuanlan.zhihu.com/p/347899851)
