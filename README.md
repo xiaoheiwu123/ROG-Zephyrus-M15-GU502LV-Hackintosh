@@ -37,7 +37,7 @@
 - HDMI接口，接在独显上，目前无解，可采用USB转HDMI，已测试雷电接口转HDMI不行
 - 隔空投送、通用控制不能用，接力正常
 ### 已发现的问题
-- 耳机孔无声BUG，已找到[解决方案](https://www.jianshu.com/p/19e5c321a842)，在此感谢果农大佬
+- 耳机孔无声BUG，已找到[解决方案](https://www.jianshu.com/p/19e5c321a842)。具体实现过程：使用最新版AppleALC，节点设为99，下载(ALCPlugFix)[black-dragon74/ALCPlugFix-Swift],使用解决方案链接中最底下的配置文件即可。在此感谢果农大佬
 - 连接手机热点有BUG，经常连不上
 - 蓝牙连手机BUG，连上立马断开，已测试Big Sur不存在此BUG
 
